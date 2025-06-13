@@ -1,3 +1,26 @@
+## turtlebot3_msgs (jazzy) - 2.4.0-1
+
+The packages in the `turtlebot3_msgs` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy turtlebot3_msgs --override-release-repository-push-url git@github.com:revyos-ros/turtlebot3_msgs-release.git` on `Fri, 13 Jun 2025 03:26:29 -0000`
+
+The `turtlebot3_msgs` package was released.
+
+Version of package(s) in repository `turtlebot3_msgs`:
+
+- upstream repository: https://github.com/ROBOTIS-GIT/turtlebot3_msgs.git
+- release repository: https://github.com/revyos-ros/turtlebot3_msgs-release.git
+- rosdistro version: `2.4.0-1`
+- old version: `2.3.0-1`
+- new version: `2.4.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## turtlebot3_msgs (jazzy) - 2.3.0-1
 
 The packages in the `turtlebot3_msgs` repository were released into the `jazzy` distro by running `/root/venv/bin/bloom-release -r jazzy turtlebot3_msgs --override-release-repository-push-url git@github.com:revyos-ros/turtlebot3_msgs-release.git --edit` on `Wed, 05 Mar 2025 07:46:10 -0000`
